@@ -15,4 +15,4 @@ Our mission is to provide comprehensive Splunk support through seamless deployme
 
 <b>End-to-End Support:</b> From implementation to continuous monitoring and optimization, we are with you at every step.
 
-Partner with RajaITService today, and transform how you use Splunk to drive your business forward
+Partner with Raja IT Service today, and transform how you use Splunk to drive your business forward

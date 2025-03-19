@@ -1,4 +1,5 @@
 ---
+layout: "page"
 title: "Welcome Message"
 date: 2024-12-17
 ---

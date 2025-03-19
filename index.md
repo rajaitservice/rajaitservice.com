@@ -1,5 +1,6 @@
 ---
 title: Welcome to Raja IT Service
+layout: page
 ---
 
 At RajaITService, we specialize in providing managed Splunk services that help businesses unlock the full potential of their IT data. With years of experience and a team of certified professionals, we offer tailored solutions that empower organizations to monitor, analyze, and secure their infrastructure with the power of Splunk.

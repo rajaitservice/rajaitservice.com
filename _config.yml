@@ -1,3 +1,5 @@
 theme: minima
 title: "Raja IT Service"
 url: "https://rajaitservice.com"
+plugins:
+  - jekyll-sitemap
